@@ -31,3 +31,40 @@
 .icon-menu i {
   margin-right: 5px;
 }
+body {
+  left: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.menu {
+  left: -285px;  /* zadeva naj bi bila na zacetku ven zaslona */
+  height: 100%;
+  position: fixed;
+  width: 285px;
+}
+
+
+.menu ul {
+  border-top: 1px solid #636366;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  border-bottom: 1px solid #636366;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 45px;
+  padding-bottom: 3px;
+  padding-left: 20px;
+  padding-top: 3px;
+}
+
+.menu a {
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
