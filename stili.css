@@ -4,6 +4,7 @@ body {
   margin: 0;
   overflow: hidden;
   position: relative;
+  background: blue;
 }
 
 
@@ -19,7 +20,7 @@ body {
 
 .jumbotron {
   background: #696969; 
-  height: 100%;
+  width: 20%;
 }
 
 .menu ul {
