@@ -11,3 +11,13 @@
                         
             ##opomba-2: stile sm usposobu, zdej bi blo fajn pogruntat kako hočmo prostor razporedit.
                         tko da use kar je od opombe1 razn aplikacija stilov.
+                        
+                        
+                        ------------------------------------------------------
+                        
+            Pazi zdej1!!
+            Ratal mi je ta osnovni pozitioning pogruntat teh divov amapk sam z px. Zdej nevem al je tu dost uredu s % se mi neki poruš al je pa pač moj browser v ...
+            
+            Stara koda je uhranjena in če se ti da potem ta tavno postioning v index.html odspodej --> ostalu zakometiran nekak uspet v tistu k sva dans začela implementirat al pa pač na tem gradit. Menu koda za implementacijo je pa not sam zakomentirat. Zdej pa morm počas spat. Upam, da ti to kaj pomaga.
+            
+            ...upadte 6. 9. 2016 ob 20.50
