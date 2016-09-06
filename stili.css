@@ -70,9 +70,10 @@ body {
 
 #levo {
   float: left;
+  width: 20%;
 }
 
 #desno {
   float: right;
-  
+  width: 75;
 }
