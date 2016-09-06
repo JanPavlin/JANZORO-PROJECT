@@ -67,3 +67,12 @@ body {
 .icon-menu i {
   margin-right: 5px;
 }
+
+#levo {
+  float: left;
+}
+
+#desno {
+  float: right;
+  
+}
