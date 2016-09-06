@@ -17,10 +17,10 @@ body {
 }
 
 
-
-.jumbotron {
+.glavni {
   background: #696969; 
   width: 285px;
+  float: left;
 }
 
 .menu ul {
@@ -68,13 +68,9 @@ body {
   margin-right: 5px;
 }
 
-#levo {
-  float: left;
-  width: 20%;
-}
-
 #desno {
   float: right;
-  width: 75;
+  width: 75px;
+  height: 75px;
   background-color: yellow;
 }
