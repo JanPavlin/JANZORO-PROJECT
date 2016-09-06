@@ -1,51 +1,30 @@
-/*.oddelki{
-   
-    width: 100px;
-    background-color: yellow
-    
-}
-.slika{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: blue
-    
-}
-.random{
-    background-color: green
-    
-    
-}*/
 
-.icon-menu {
-  color: #000000;
-  cursor: pointer;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  padding-bottom: 25px;
-  padding-left: 25px;
-  padding-top: 25px;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
-.icon-menu i {
-  margin-right: 5px;
-}
 body {
   left: 0;
   margin: 0;
   overflow: hidden;
   position: relative;
-  background-color: #808080;
 }
 
+
 .menu {
-  left: -285px;  /* zadeva naj bi bila na zacetku ven zaslona */
+  background: #202024;
+  left: -285px; 
   height: 100%;
   position: fixed;
   width: 285px;
 }
 
+
+
+.jumbotron {
+  background-image: url('https://www.google.si/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi9gdzZkvvOAhUlEpoKHaxUDnsQjRwIBw&url=http%3A%2F%2Fvisitnovomesto.si%2Fznamenitosti%2F&bvm=bv.131783435,d.bGs&psig=AFQjCNGNAUeRiT5qzSBN3WKk0QbpBmyFXw&ust=1473265196959509'); 
+  height: 100%;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
 
 .menu ul {
   border-top: 1px solid #636366;
@@ -68,4 +47,26 @@ body {
   font-size: 15px;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.icon-close {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.icon-menu {
+  color: #fff;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-top: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-menu i {
+  margin-right: 5px;
 }
