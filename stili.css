@@ -36,6 +36,7 @@ body {
   margin: 0;
   overflow: hidden;
   position: relative;
+  background-color: #808080;
 }
 
 .menu {
