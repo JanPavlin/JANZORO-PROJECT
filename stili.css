@@ -36,7 +36,10 @@
 }
 
 body {
- 
+ left: 0%;
+  margin: 0%;
+  overflow: hidden;
+  position: relative;
   background-image: url("7010498-beautiful-desktop-picture.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -59,9 +62,6 @@ body {
   height: 50px;
 
 	background-color: black;
-	
-
-	
 }
 
 .menu ul {
@@ -107,11 +107,4 @@ body {
 
 .icon-menu i {
   margin-right: 5px;
-}
-
-#desno {
-  float: right;
-  width: 75px;
-  height: 75px;
-  background-color: yellow;
 }
