@@ -11,8 +11,8 @@ var main = function() {
     }, 200);
     
      
-        $('body').css('background-color', 'rgba(0, 0, 0, '0.4')');
-     
+      /*  $('body').css('background-color', 'rgba(0, 0, 0, '0.4')');
+     */
     
   });
 
@@ -25,8 +25,8 @@ var main = function() {
       left: "0%"
     }, 200);
     
-        $('body').css({"backgroundColor","white"});
-     
+       /* $('body').css({"backgroundColor","white"});
+     */
         
   });
   
