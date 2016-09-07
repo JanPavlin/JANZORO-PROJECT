@@ -11,7 +11,7 @@ var main = function() {
     }, 200);
     
      
-         $("body").css("background-color", "rgba(255, 255, 255, 0.4)");
+         $("img").css("background-color", "rgba(255, 255, 255, 0.4)");
      
     
   });
@@ -25,7 +25,7 @@ var main = function() {
       left: "0%"
     }, 200);
     
-  $("body").css("background-color", "white");
+  $("img").css("background-color", "white");
         
   });
   
