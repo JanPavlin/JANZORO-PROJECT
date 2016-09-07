@@ -10,9 +10,9 @@ var main = function() {
       left: "10%"
     }, 200);
     
-     $(this).stop().animate({
-        $('body').css('background-color', 'rgba(0, 0, 0, '0.4')')
-     }, 300);
+     
+        $('body').css('background-color', 'rgba(0, 0, 0, '0.4')');
+     
     
   });
 
@@ -25,9 +25,8 @@ var main = function() {
       left: "0%"
     }, 200);
     
-     $(this).stop().animate({
-        $('body').css({"backgroundColor","white"})
-     }, 300);
+        $('body').css({"backgroundColor","white"});
+     
         
   });
   
