@@ -27,11 +27,6 @@
 
 }
 .prvi {
-	height: 300px;
-	width: 10%;
-	background-color: black;
-	margin-right: 10px;
-	float: left;
 	
 }
 .drugi {
@@ -64,6 +59,12 @@ body {
   background: #696969; 
   width: 285px;
   float: left;
+  height: 50px;
+
+	background-color: black;
+	margin-right: 10px;
+
+	
 }
 
 .menu ul {
