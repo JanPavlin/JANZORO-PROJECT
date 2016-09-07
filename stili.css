@@ -26,12 +26,10 @@
 .header {
 
 }
-.prvi {
-	
-}
+
 .drugi {
 	height: 50px;
-	width: 85%;
+	width: 89%;
 	background-color: gray;
 	float: left;
 
@@ -47,16 +45,16 @@ body {
 
 .menu {
   background: #202024;
-  left: -285px;  
+  left: -10%;  
   height: 100%;
   position: fixed;
-  width: 285px;
+  width: 10%;
 }
 
 
 .glavni {
   background: #696969; 
-  width: 285px;
+  width: 10%;
   float: left;
   height: 50px;
 
