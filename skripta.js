@@ -9,6 +9,8 @@ var main = function() {
     $('body').animate({
       left: "10%"
     }, 200);
+    
+    $('body').css({ opacity: 0.4 });
   });
 
   $('.icon-close').click(function() {
@@ -19,6 +21,7 @@ var main = function() {
     $('body').animate({
       left: "0%"
     }, 200);
+        $('body').css({ opacity: 1.0 });
   });
 };
 
