@@ -30,14 +30,14 @@
 	
 }
 .drugi {
-	height: 300px;
-	width: 85%;
+	height: 50px;
+	width: 80%;
 	background-color: gray;
 	float: left;
 	padding-left: 20px;
 }
 .testBo{
-	background-color: purple;
+	background-image: url("7010498-beautiful-desktop-picture.jpg");
 }
 body {
   left: 0;
