@@ -10,7 +10,10 @@ var main = function() {
       left: "10%"
     }, 200);
     
-    $('body').css({ opacity: 0.4 });
+     $(this).stop().animate({
+        $('body').css('background-color', 'rgba(0, 0, 0, '0.4')')
+     }, 300);
+    
   });
 
   $('.icon-close').click(function() {
@@ -21,8 +24,14 @@ var main = function() {
     $('body').animate({
       left: "0%"
     }, 200);
-        $('body').css({ opacity: 1.0 });
+    
+     $(this).stop().animate({
+        $('body').css({"backgroundColor","white"})
+     }, 300);
+        
   });
+  
+    
 };
 
 
