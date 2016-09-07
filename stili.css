@@ -1,4 +1,4 @@
-
+/*
 #glava {
 	height: 50px;
 	background-color: yellow;
@@ -22,7 +22,7 @@
 	height: 50px;
 	background-color: blue;
     clear: both;
-}	
+}	*/
 .header {
 
 }
@@ -41,8 +41,7 @@ body {
  
   background-image: url("7010498-beautiful-desktop-picture.jpg");
   background-size: cover;
-  
- 
+  background-repeat: no-repeat;
 }
 
 
