@@ -25,5 +25,6 @@
 update 8. 9 . 2016
 
             Narej je recimo da izgled in mal posatvitem Updatan celotna prva stran. Mogoč se mora dodati še kakšna vsebina drugače je pa to to skor. Mal preglej kaj dodaj poopravi. 
+            Pa by the mim če se ti da raziskat za poravnavo teksta da bi prišel točno na sredino strani lp Uroš.
             
             Predvsem "noga" spletne strani bi jst dodal še kakšne linke (veš unu znak za facebook, twiiter ... ) sam je ura če 22. 20 ko pišem ta stavek in je že res dost ker morm jutr na šiht. (pa un znakec za copyright....) da to dor zgleda dej če se ti da to jutr uštimej hvala.
