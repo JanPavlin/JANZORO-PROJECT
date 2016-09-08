@@ -1,35 +1,4 @@
-/*
-#glava {
-	height: 50px;
-	background-color: yellow;
-	margin-bottom: 10px;
-}
-.levo {
-	height: 300px;
-	width: 150px;
-	background-color: red;
-	float: left;
-	margin-bottom: 10px;
-}
-.desno {
-	height: 300px;
-	width: 450px;
-	background-color: green;
-	float: right;
-	margin-bottom: 10px;
-}
-#nogo {
-	height: 50px;
-	background-color: blue;
-    clear: both;
-}	*/
 html,
-.close{
-	background-image: url("close.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;}
-  
-
 body {
 	margin:0;
 	padding:0;
