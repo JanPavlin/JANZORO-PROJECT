@@ -21,3 +21,9 @@
             Stara koda je uhranjena in če se ti da potem ta tavno postioning v index.html odspodej --> ostalu zakometiran nekak uspet v tistu k sva dans začela implementirat al pa pač na tem gradit. Menu koda za implementacijo je pa not sam zakomentirat. Zdej pa morm počas spat. Upam, da ti to kaj pomaga.
             
             ...upadte 6. 9. 2016 ob 20.50
+--------------------------------------------------------------------------
+update 8. 9 . 2016
+
+            Narej je recimo da izgled in mal posatvitem Updatan celotna prva stran. Mogoč se mora dodati še kakšna vsebina drugače je pa to to skor. Mal preglej kaj dodaj poopravi. 
+            
+            Predvsem "noga" spletne strani bi jst dodal še kakšne linke (veš unu znak za facebook, twiiter ... ) sam je ura če 22. 20 ko pišem ta stavek in je že res dost ker morm jutr na šiht. (pa un znakec za copyright....) da to dor zgleda dej če se ti da to jutr uštimej hvala.
