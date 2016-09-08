@@ -44,7 +44,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+footer {
+    display: block;
+}
 
 .menu {
   background: #202024;
