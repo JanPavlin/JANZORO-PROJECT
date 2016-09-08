@@ -92,7 +92,7 @@ body {
   padding-left: 10px;
   padding-top: 10px;
   background-image: url("close.jpg");
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
