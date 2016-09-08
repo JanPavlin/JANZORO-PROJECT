@@ -91,6 +91,9 @@ body {
   cursor: pointer;
   padding-left: 10px;
   padding-top: 10px;
+  background-image: url("close.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .icon-menu {
