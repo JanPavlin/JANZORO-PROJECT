@@ -2,11 +2,11 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	  <meta name="keywords" content="Jan Pavlin, Uros Zoretic, vsebina">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>JanZoro</title>
-	
 	<link rel="stylesheet" type="text/css" href="stili.css" />
-
-
+	
 </head>
 
 <body>
@@ -14,39 +14,46 @@
 	<div id="wrapper">
 		
 		<div id="header">
-			<div class="menu">
-	      
-	     
-			      <div class="icon-close">
-			       
-			        <img src="close.jpg" >
-			      </div>
-			   
-			      <ul>
+			<div class="menu"> 
+
+			   <div class="seznam" >
+					<ul>
 			        <li><a href="#">Prvič</a></li>
 			        <li><a href="#">Drugič</a></li>
 			        <li><a href="#">Tretjič</a></li>
 			        <li><a href="#">Prodano</a></li>
 			      </ul>
+			   </div>
+			      
 			</div>
 			
-		    <div class="glavni">
-		      <div class="icon-menu">
-		        <i class="fa fa-bars"></i>
-		        Menu
-		      </div>
+		    <div class="glavni" onclick="myFunction(this)">
+		     
+					<div class="bar1"></div>
+					<div class="bar2"></div>
+					<div class="bar3"></div>
+				
 			</div>
-			<div class="drugi">
+			<div class="logo">
+			
+			<a href="#">
+			<img src="domov.png" alt="Domov">
+			</a>
+				<button class="button">Prijava</button>
+				<button class="button">Registracija</button>
 				
 			</div>	
 		</div>
 		<!-- Vsebina ali nekaj bomo probal neki-->
 		<div id="content">
+			<div class="pozdrav">
+				<p>Lep pozdrav na spletni strani JanZoro</p>
+			</div>
 		</div>
 		
 		<div id="footer">
 		
-			<p>Posted by:Jan Pavlin </p>
+			<p>Posted by:Jan Pavlin and Uroš Zoretič </p>
 		  <p>Contact information: <a href="mailto:someone@example.com">
 		  someone@example.com</a>.</p>
 
@@ -56,6 +63,11 @@
 	
 		 <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 		 	<script src="skripta.js"></script> 
+			<script>
+function myFunction(x) {
+    x.classList.toggle("change");
+}
+</script>
 </body>
 
 </html>
