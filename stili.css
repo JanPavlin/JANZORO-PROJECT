@@ -79,6 +79,10 @@ body {
   padding-left: 20px;
   padding-top: 3px;
 }
+.close{
+	background-image: url("close.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;}
 
 .menu a {
   color: #fff;
@@ -91,9 +95,7 @@ body {
   cursor: pointer;
   padding-left: 10px;
   padding-top: 10px;
-  background-image: url("close.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
+  
 }
 
 .icon-menu {
