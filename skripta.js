@@ -1,5 +1,3 @@
-
-
 var main = function() {
   $('.icon-menu').click(function() {
     $('.menu').animate({
