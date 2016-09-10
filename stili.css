@@ -83,10 +83,13 @@ body {
 	
 }
 .avtorske p{
+	font-family: Sans-Serif;
 	text-align: center;
 	vertical-align: middle;
-	line-height: 50px;
-	font-size: 150%;
+	line-height: 100px;
+	font-size: 90%;
+	padding: 0;
+	margin: 0;
 }
 li:hover{
 	opacity: 0.4;
