@@ -19,7 +19,9 @@ body {
 }
 #content {
 	padding-bottom:100px; 
-	text-align: center;
+		text-align: center;
+	vertical-align: middle;
+	line-height: 100%;
 }
 #footer {
 	background:#000080;
@@ -34,6 +36,43 @@ body {
 }
 #footer a {
 	color: green;
+}
+#footer a:hover {
+	color: red;
+}
+.Jan {
+	font-size: 100%;
+	width: 35%;
+	height: 100px;
+	float: left;
+    border-right: 1px solid #7f7fbf;
+}
+.Uros {
+	font-size: 100%;
+	width: 38%;
+	height: 100px;
+	float: left;
+    border-right: 1px solid #7f7fbf;
+}
+#footer img {
+	float: left;
+	width: 15%;
+	height: 45%;
+	padding-left: 4%;
+}
+#footer h3 {
+	color: white;
+	margin: 0;
+	padding-bottom: 2%;
+	padding-left: 5%;
+	padding-top: 2%;
+	
+}
+.avtorske p{
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	font-size: 150%;
 }
 li:hover{
 	opacity: 0.4;
@@ -115,7 +154,9 @@ top: 50px;
     -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
     transform: rotate(-45deg) translate(-9px, 6px) ;
 }
-.change .bar2 {opacity: 0;}
+.change .bar2 {
+	opacity: 0;
+	}
 
 .change .bar3 {
     -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
