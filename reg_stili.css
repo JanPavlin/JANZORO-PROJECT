@@ -1,0 +1,135 @@
+body {
+margin:0;
+padding:0;
+height:100%;
+overflow: hidden;
+ left: 0%;
+background-image: url("oblaki.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+ }
+ 
+
+ #forma {
+	width: 100%;
+	padding: 15px;
+	margin: 0 auto;
+	color: #00004c;
+	
+ }
+ h1 {
+	 text-align: center;
+	 color: #000026;
+ }
+ #forma  {
+	margin-bottom: 10px;
+ }
+ 
+ #forma  {
+	font-weight: normal;
+ }
+ 
+ #forma .kontrola-forme {
+	position: relative;
+	height: auto;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 10px;
+	font-size: 16px;
+	margin-bottom: 2%;
+	margin-left: 5%;
+ }
+ 
+ #forma .kontrola-forme:focus {
+	z-index: 2;
+ }
+ 
+ #forma input[type="text"]{
+	  text-align:left; 
+	margin-top: 1%;
+ }
+ 
+ #forma input[type="password"] {
+	margin-bottom: 3%;
+	border-color:#cccce5;
+ }
+ #forma input[type="submit"]{
+	 height: 50px;
+	 width: 50%;
+	 border: none;
+	 border-radius: 5px;
+	 font-weight: bolder;
+	 cursor: pointer;
+	 text-align: center;
+	 background-color: #323299;
+	 margin-left: 5%;
+	  top: 50%;
+    left: 50%;
+    
+ }
+ #forma input[type="reset"]{
+	 height: 50px;
+	 width: 100%;
+	 border: none;
+	 border-radius: 5px;
+	 font-weight: bolder;
+	 cursor: pointer;
+	 text-align: center;
+	 background-color: #323299;
+ }
+ #forma input[type="reset"]:hover{
+	 opacity: 0.8;
+ }
+  #forma input[type="submit"]:hover{
+	 opacity: 0.8;
+ }
+ #wrapper {
+	min-height:100%;
+	position:relative;
+	overflow: auto;
+	border-right: 2px solid #7f7fbf;
+}
+#wrapper .registracija{
+	font-family: Sans-Serif;
+	 
+	position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+ .logo {
+	height: 50px;
+	width: 100%;
+	position: relative;
+	float: left;
+}
+.logo img {
+	padding-left: 1%;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	float: left;
+	margin-left: 3%;
+}
+.logo img:hover{
+	left: 5px;
+}
+.button {
+   background-color: #4c4ca6; 
+    border: none;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: right;
+	height: 50px;
+	width: 10%;
+	text-align: center;
+}
+.button:hover{
+	background-color: #9999cc;
+}
